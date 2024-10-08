@@ -1,0 +1,16 @@
+/Users/hamzaawad/Desktop/c#/c#program/bin/Debug/c#program
+/Users/hamzaawad/Desktop/c#/c#program/bin/Debug/c#program.deps.json
+/Users/hamzaawad/Desktop/c#/c#program/bin/Debug/c#program.runtimeconfig.json
+/Users/hamzaawad/Desktop/c#/c#program/bin/Debug/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program/bin/Debug/c#program.pdb
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.AssemblyInfoInputs.cache
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.AssemblyInfo.cs
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.csproj.CoreCompileInputs.cache
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.sourcelink.json
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/refint/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.pdb
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.genruntimeconfig.cache
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/ref/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program/c#program/obj/Debug/c#program.csproj.AssemblyReference.cache

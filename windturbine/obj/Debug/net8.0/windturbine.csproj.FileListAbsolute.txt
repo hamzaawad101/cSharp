@@ -1,0 +1,15 @@
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.AssemblyInfoInputs.cache
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.AssemblyInfo.cs
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.csproj.CoreCompileInputs.cache
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.sourcelink.json
+/Users/hamzaawad/Desktop/c#/windturbine/bin/Debug/net8.0/windturbine
+/Users/hamzaawad/Desktop/c#/windturbine/bin/Debug/net8.0/windturbine.deps.json
+/Users/hamzaawad/Desktop/c#/windturbine/bin/Debug/net8.0/windturbine.runtimeconfig.json
+/Users/hamzaawad/Desktop/c#/windturbine/bin/Debug/net8.0/windturbine.dll
+/Users/hamzaawad/Desktop/c#/windturbine/bin/Debug/net8.0/windturbine.pdb
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.dll
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/refint/windturbine.dll
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.pdb
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/windturbine.genruntimeconfig.cache
+/Users/hamzaawad/Desktop/c#/windturbine/obj/Debug/net8.0/ref/windturbine.dll

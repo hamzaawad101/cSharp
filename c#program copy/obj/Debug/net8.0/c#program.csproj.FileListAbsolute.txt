@@ -1,0 +1,15 @@
+/Users/hamzaawad/Desktop/c#/c#program copy/bin/Debug/net8.0/c#program
+/Users/hamzaawad/Desktop/c#/c#program copy/bin/Debug/net8.0/c#program.deps.json
+/Users/hamzaawad/Desktop/c#/c#program copy/bin/Debug/net8.0/c#program.runtimeconfig.json
+/Users/hamzaawad/Desktop/c#/c#program copy/bin/Debug/net8.0/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program copy/bin/Debug/net8.0/c#program.pdb
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.AssemblyInfoInputs.cache
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.AssemblyInfo.cs
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.csproj.CoreCompileInputs.cache
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.sourcelink.json
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/refint/c#program.dll
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.pdb
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/c#program.genruntimeconfig.cache
+/Users/hamzaawad/Desktop/c#/c#program copy/obj/Debug/net8.0/ref/c#program.dll
