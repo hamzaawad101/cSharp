@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hamzaawad/Desktop/c#/c#program copy/c#program.csproj",
-      "projectName": "c#program",
-      "projectPath": "/Users/hamzaawad/Desktop/c#/c#program copy/c#program.csproj",
+      "projectUniqueName": "/Users/hamzaawad/Desktop/c#/Theater/Theater.csproj",
+      "projectName": "Theater",
+      "projectPath": "/Users/hamzaawad/Desktop/c#/Theater/Theater.csproj",
       "packagesPath": "/Users/hamzaawad/.nuget/packages/",
-      "outputPath": "/Users/hamzaawad/Desktop/c#/c#program copy/obj/",
+      "outputPath": "/Users/hamzaawad/Desktop/c#/Theater/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hamzaawad/.nuget/NuGet/NuGet.Config"

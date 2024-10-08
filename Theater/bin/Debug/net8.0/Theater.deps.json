@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "c#program/1.0.0": {
+      "Theater/1.0.0": {
         "runtime": {
-          "c#program.dll": {}
+          "Theater.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "c#program/1.0.0": {
+    "Theater/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

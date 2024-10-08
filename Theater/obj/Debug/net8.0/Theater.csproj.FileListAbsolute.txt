@@ -1,0 +1,15 @@
+/Users/hamzaawad/Desktop/c#/Theater/bin/Debug/net8.0/Theater
+/Users/hamzaawad/Desktop/c#/Theater/bin/Debug/net8.0/Theater.deps.json
+/Users/hamzaawad/Desktop/c#/Theater/bin/Debug/net8.0/Theater.runtimeconfig.json
+/Users/hamzaawad/Desktop/c#/Theater/bin/Debug/net8.0/Theater.dll
+/Users/hamzaawad/Desktop/c#/Theater/bin/Debug/net8.0/Theater.pdb
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.AssemblyInfoInputs.cache
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.AssemblyInfo.cs
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.csproj.CoreCompileInputs.cache
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.sourcelink.json
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.dll
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/refint/Theater.dll
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.pdb
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/Theater.genruntimeconfig.cache
+/Users/hamzaawad/Desktop/c#/Theater/obj/Debug/net8.0/ref/Theater.dll
